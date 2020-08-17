@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-73bafeda"],{"090a":function(n,c,e){},"59cc":function(n,c,e){"use strict";var t=e("090a"),u=e.n(t);u.a},"607b":function(n,c,e){"use strict";e.r(c);var t=function(){var n=this,c=n.$createElement,e=n._self._c||c;return e("h1",[n._v("Add New Admin")])},u=[],a={name:"All Course Corriculum"},r=a,i=(e("59cc"),e("2877")),o=Object(i["a"])(r,t,u,!1,null,"643d9f52",null);c["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-73bafeda.eedfff77.js.map

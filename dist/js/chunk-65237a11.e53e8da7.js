@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-65237a11"],{4204:function(e,n,u){"use strict";u.r(n);var c=function(){var e=this,n=e.$createElement,u=e._self._c||n;return u("h1",[e._v("Course Corriculum")])},r=[],t={name:"All Course Corriculum"},o=t,s=(u("88eb"),u("2877")),a=Object(s["a"])(o,c,r,!1,null,"739e7f33",null);n["default"]=a.exports},"88eb":function(e,n,u){"use strict";var c=u("b6c6"),r=u.n(c);r.a},b6c6:function(e,n,u){}}]);
+//# sourceMappingURL=chunk-65237a11.e53e8da7.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-f4d7aa18"],{"1aee":function(e,n,u){"use strict";u.r(n);var r=function(){var e=this,n=e.$createElement,u=e._self._c||n;return u("h1",[e._v("Add New Course Corriculum")])},t=[],c={name:"Add New Course Corriculum"},a=c,o=(u("796e"),u("2877")),s=Object(o["a"])(a,r,t,!1,null,"5036e400",null);n["default"]=s.exports},"655b":function(e,n,u){},"796e":function(e,n,u){"use strict";var r=u("655b"),t=u.n(r);t.a}}]);
+//# sourceMappingURL=chunk-f4d7aa18.f93a631a.js.map

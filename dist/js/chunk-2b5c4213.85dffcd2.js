@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2b5c4213"],{"2ff3":function(n,t,c){},a648:function(n,t,c){"use strict";c.r(t);var e=function(){var n=this,t=n.$createElement,c=n._self._c||t;return c("h1",[n._v("Add New POST Category ")])},a=[],o={name:"All Post Category"},r=o,u=(c("c78b"),c("2877")),f=Object(u["a"])(r,e,a,!1,null,"37c05bfc",null);t["default"]=f.exports},c78b:function(n,t,c){"use strict";var e=c("2ff3"),a=c.n(e);a.a}}]);
+//# sourceMappingURL=chunk-2b5c4213.85dffcd2.js.map

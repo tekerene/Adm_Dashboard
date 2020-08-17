@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-47e1ed50"],{"1b5a":function(n,e,t){"use strict";t.r(e);var u=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("h1",[n._v("All ADMINS")])},a=[],c={name:"All Course Corriculum"},r=c,l=(t("afd5"),t("2877")),o=Object(l["a"])(r,u,a,!1,null,"525a9e88",null);e["default"]=o.exports},7317:function(n,e,t){},afd5:function(n,e,t){"use strict";var u=t("7317"),a=t.n(u);a.a}}]);
+//# sourceMappingURL=chunk-47e1ed50.102ed4b3.js.map
